@@ -1,6 +1,6 @@
 # Hit circle and cursor(tbd) generator for OSU! game.
 
-![hitcircleoverlay@2x](https://github.com/user-attachments/assets/a13491a5-167d-46f8-b53c-eb40198cc198)
+![hitcircle@2x](https://github.com/user-attachments/assets/a2a11e1c-e71b-40eb-b9ba-020b3669452e)
 ![index icon](https://github.com/user-attachments/assets/582b395b-069c-43e9-bd7f-1785d8c60c31)
 ![cursor@2x](https://github.com/user-attachments/assets/7c925205-9e6e-40af-9ece-c561e6ae2439)
 ![cursor@2x2](https://github.com/user-attachments/assets/e7559d2e-0a8e-4049-9471-17abae1d0a47)
