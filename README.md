@@ -1,4 +1,4 @@
-# Hit circle and cursor(tbd) generator for OSU! game.
+# Hit circle and cursor(tbd) generator for OSU! game very WIP
 
 ![hitcircle@2x](https://github.com/user-attachments/assets/a2a11e1c-e71b-40eb-b9ba-020b3669452e)
 ![index icon](https://github.com/user-attachments/assets/582b395b-069c-43e9-bd7f-1785d8c60c31)
