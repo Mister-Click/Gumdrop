@@ -1,5 +1,7 @@
 # Hit circle and cursor(tbd) generator for OSU! game very WIP
 
+Try here: https://mister-click.github.io/gumdrop/
+
 ![scircle](https://github.com/user-attachments/assets/425eeed7-5ec4-4808-a8eb-9567c595b2dc)
 ![scarlble](https://github.com/user-attachments/assets/bf1ed141-12a9-4942-84a7-cfdb68a0cb97)
 
@@ -8,7 +10,14 @@
 ![index icon](https://github.com/user-attachments/assets/582b395b-069c-43e9-bd7f-1785d8c60c31)
 ![cursor@2x](https://github.com/user-attachments/assets/7c925205-9e6e-40af-9ece-c561e6ae2439)
 
+# Working
+- Generating hitcircle, hitcircleoverylay, approachcircle
+- TripleStacked skin generation with a selection of fonts
 
-Try here: https://mister-click.github.io/Gumdrop/
-
-After I finish the things mentioned in the UI I will do the UI for the cursor generator which is currently existing in the code. Then I will make the UIs look even nicer (wow how could that be possible) and add boxes for typing values, then I will port effects between the hitcircle and cursor shader so we can have gumdrop/blazing sun hitcircles and mechanical cursors. in at the same time I will be figuring how to automatically scale things properly, until then you have to manually maximize your circle 'edge' length at CS-1.4 by adjusting radius and ring width for clean renders
+# Missing
+- Cursor UI
+- Instafade
+- Legible UI
+- Normal digits generation
+- Glass / fresnel / glow effects for circle parts
+- Generating all the center dot circles for non-digit players
